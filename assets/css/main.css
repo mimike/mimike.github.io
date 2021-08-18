@@ -1,6 +1,8 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
+
+
 /*
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
@@ -132,6 +134,7 @@ input, select, textarea {
 	p {
 		margin: 0 0 2.25em 0;
 		font-size: 20px;
+
 	}
 
 	h1, h2, h3, h4, h5, h6 {
