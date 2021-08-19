@@ -2671,9 +2671,9 @@ input, select, textarea {
 
 		.features article .image {
 			display: inline-block;
-			padding-right: 2.5em;
+			padding-right: 4.8em;
 			vertical-align: middle;
-			width: 48%;
+			width: 100%
 		}
 
 			.features article .image img {
@@ -2684,7 +2684,8 @@ input, select, textarea {
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 100%;
+			margin-top: 2.5em;
 		}
 
 			.features article .inner > :last-child {
@@ -2835,7 +2836,7 @@ input, select, textarea {
 	}
 
 		#main > section > .container {
-			padding: 6em 0 4em 0;
+			padding: 6em 0 2em 0;
 		}
 
 		#main > section:first-child {
@@ -3169,14 +3170,15 @@ input, select, textarea {
 		/* Features */
 
 			.features article .image {
-				display: block;
+				display: inline;
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
 				width: 100%;
+
 			}
 
 			.features article .inner {
-				display: block;
+				display: inline;
 				width: 100%;
 			}
 
