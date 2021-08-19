@@ -3170,7 +3170,7 @@ input, select, textarea {
 		/* Features */
 
 			.features article .image {
-				display: inline;
+				display: block;
 				margin: 0 0 2.25em 0;
 				padding-right: 0;
 				width: 100%;
@@ -3178,7 +3178,7 @@ input, select, textarea {
 			}
 
 			.features article .inner {
-				display: inline;
+				display: block;
 				width: 100%;
 			}
 
